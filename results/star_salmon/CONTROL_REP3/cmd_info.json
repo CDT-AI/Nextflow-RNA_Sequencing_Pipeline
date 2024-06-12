@@ -1,0 +1,10 @@
+{
+    "salmon_version": "1.10.1",
+    "geneMap": "genome.filtered.gtf",
+    "threads": "6",
+    "libType": "ISF",
+    "targets": "genome.transcripts.fa",
+    "alignments": "CONTROL_REP3.Aligned.toTranscriptome.out.bam",
+    "output": "CONTROL_REP3",
+    "auxDir": "aux_info"
+}

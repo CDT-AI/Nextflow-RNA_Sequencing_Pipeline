@@ -1,0 +1,5 @@
+Sample	bam_file	reads_aligned	total_alignments	non_unique_alignments	reads_aligned_genes	ambiguous_alignments	not_aligned	5_3_bias	reads_aligned_exonic	reads_aligned_intronic	reads_aligned_intergenic	reads_aligned_overlapping_exon
+CONTROL_REP1	CONTROL_REP1.markdup.sorted.bam	187755.0	376254.0	1450.0	369492.0	0.0	0.0	3.86	369492.0	4994.0	314.0	1283.0
+CONTROL_REP2	CONTROL_REP2.markdup.sorted.bam	205665.0	412858.0	3042.0	405124.0	0.0	0.0	1.37	405124.0	4220.0	370.0	730.0
+CONTROL_REP3	CONTROL_REP3.markdup.sorted.bam	209133.0	419610.0	2646.0	415668.0	0.0	0.0	2.17	415668.0	972.0	324.0	361.0
+CONTROL_REP4	CONTROL_REP4.markdup.sorted.bam	132116.0	265446.0	2420.0	261784.0	0.0	0.0	0.8	261784.0	962.0	196.0	215.0

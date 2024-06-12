@@ -1,0 +1,19 @@
+# id: 'biotype_counts'
+# section_name: 'Biotype Counts'
+# description: "shows reads overlapping genomic features of different biotypes,
+#     counted by <a href='http://bioinf.wehi.edu.au/featureCounts'>featureCounts</a>."
+# plot_type: 'bargraph'
+# anchor: 'featurecounts_biotype'
+# pconfig:
+#     id: "featurecounts_biotype_plot"
+#     title: "featureCounts: Biotypes"
+#     xlab: "# Reads"
+#     cpswitch_counts_label: "Number of Reads"
+protein_coding	186458
+lincRNA	0
+snoRNA	0
+pre_miRNA	0
+pseudogene	0
+snRNA	0
+tRNA	0
+rRNA	0

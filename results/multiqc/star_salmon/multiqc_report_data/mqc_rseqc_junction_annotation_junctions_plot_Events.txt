@@ -1,0 +1,5 @@
+Sample	Known Splicing Events	Partial Novel Splicing Events	Novel Splicing Events
+CONTROL_REP1	14096.0	22.0	866.0
+CONTROL_REP2	7495.0	20.0	832.0
+CONTROL_REP3	13542.0	9.0	2993.0
+CONTROL_REP4	5980.0	6.0	220.0

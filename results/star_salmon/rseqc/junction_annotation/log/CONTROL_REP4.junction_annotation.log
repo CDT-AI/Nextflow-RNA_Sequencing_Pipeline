@@ -1,0 +1,19 @@
+[E::idx_find_and_load] Could not retrieve index file for 'CONTROL_REP4.markdup.sorted.bam'
+Reading reference bed file:  genes.bed  ...  Done
+Load BAM file ...  Done
+
+===================================================================
+Total splicing  Events:	6206
+Known Splicing Events:	5980
+Partial Novel Splicing Events:	6
+Novel Splicing Events:	220
+Filtered Splicing Events:	0
+
+Total splicing  Junctions:	12
+Known Splicing Junctions:	4
+Partial Novel Splicing Junctions:	2
+Novel Splicing Junctions:	6
+
+===================================================================
+Create BED file ...
+Create Interact file ...

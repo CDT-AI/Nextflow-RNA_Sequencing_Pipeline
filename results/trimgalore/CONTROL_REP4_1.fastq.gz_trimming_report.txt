@@ -1,0 +1,72 @@
+
+SUMMARISING RUN PARAMETERS
+==========================
+Input filename: CONTROL_REP4_1.fastq.gz
+Trimming mode: paired-end
+Trim Galore version: 0.6.7
+Cutadapt version: 3.4
+Python version: could not detect
+Number of cores used for trimming: 4
+Quality Phred score cutoff: 20
+Quality encoding type selected: ASCII+33
+Using Illumina adapter for trimming (count: 5). Second best hit was smallRNA (count: 0)
+Adapter sequence: 'AGATCGGAAGAGC' (Illumina TruSeq, Sanger iPCR; auto-detected)
+Maximum trimming error rate: 0.1 (default)
+Minimum required adapter overlap (stringency): 1 bp
+Minimum required sequence length for both reads before a sequence pair gets removed: 20 bp
+Running FastQC on the data once trimming has completed
+Running FastQC with the following extra arguments: -t 8
+Output file will be GZIP compressed
+
+
+This is cutadapt 3.4 with Python 3.9.6
+Command line parameters: -j 4 -e 0.1 -q 20 -O 1 -a AGATCGGAAGAGC CONTROL_REP4_1.fastq.gz
+Processing reads on 4 cores in single-end mode ...
+Finished in 0.63 s (3 µs/read; 17.58 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 185,415
+Reads with adapters:                    55,356 (29.9%)
+Reads written (passing filters):       185,415 (100.0%)
+
+Total basepairs processed:    16,964,709 bp
+Quality-trimmed:               1,262,129 bp (7.4%)
+Total written (filtered):     15,622,277 bp (92.1%)
+
+=== Adapter 1 ===
+
+Sequence: AGATCGGAAGAGC; Type: regular 3'; Length: 13; Trimmed: 55356 times
+
+No. of allowed errors:
+1-9 bp: 0; 10-13 bp: 1
+
+Bases preceding removed adapters:
+  A: 37.8%
+  C: 30.3%
+  G: 24.0%
+  T: 7.9%
+  none/other: 0.0%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+1	38034	46353.8	0	38034
+2	11976	11588.4	0	11976
+3	3625	2897.1	0	3625
+4	1311	724.3	0	1311
+5	375	181.1	0	375
+6	8	45.3	0	8
+7	5	11.3	0	5
+8	3	2.8	0	3
+9	4	0.7	0	4
+10	7	0.2	1	6 1
+11	2	0.0	1	2
+12	2	0.0	1	2
+13	1	0.0	1	1
+16	2	0.0	1	2
+19	1	0.0	1	1
+
+RUN STATISTICS FOR INPUT FILE: CONTROL_REP4_1.fastq.gz
+=============================================
+185415 sequences processed in total
+

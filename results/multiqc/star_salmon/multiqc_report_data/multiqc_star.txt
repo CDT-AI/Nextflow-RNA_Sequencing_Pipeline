@@ -1,0 +1,5 @@
+Sample	total_reads	avg_input_read_length	uniquely_mapped	uniquely_mapped_percent	avg_mapped_read_length	num_splices	num_annotated_splices	num_GTAG_splices	num_GCAG_splices	num_ATAC_splices	num_noncanonical_splices	mismatch_rate	deletion_rate	deletion_length	insertion_rate	insertion_length	multimapped	multimapped_percent	multimapped_toomany	multimapped_toomany_percent	unmapped_mismatches_percent	unmapped_tooshort_percent	unmapped_other_percent	unmapped_mismatches	unmapped_tooshort	unmapped_other
+CONTROL_REP1	193506.0	192.0	187402.0	96.85	192.7	29771.0	29757.0	28977.0	792.0	0.0	2.0	0.12	0.0	1.54	0.0	1.64	353.0	0.18	0.0	0.0	0.0	2.97	0.0	0	5751	0
+CONTROL_REP2	238696.0	181.0	204908.0	85.84	179.54	18139.0	18107.0	16424.0	1110.0	604.0	1.0	0.15	0.0	1.45	0.03	1.85	757.0	0.32	0.0	0.0	0.0	13.84	0.0	0	33031	0
+CONTROL_REP3	219568.0	193.0	208482.0	94.95	192.89	30941.0	30924.0	28911.0	2028.0	0.0	2.0	0.17	0.0	1.51	0.01	1.77	651.0	0.3	0.0	0.0	0.0	4.75	0.0	0	10435	0
+CONTROL_REP4	163081.0	181.0	131513.0	80.64	178.77	11924.0	11912.0	11924.0	0.0	0.0	0.0	0.2	0.0	1.72	0.04	1.93	603.0	0.37	0.0	0.0	0.0	18.99	0.0	0	30965	0

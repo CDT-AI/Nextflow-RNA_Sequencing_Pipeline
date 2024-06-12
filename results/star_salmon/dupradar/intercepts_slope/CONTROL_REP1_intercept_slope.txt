@@ -1,0 +1,2 @@
+CONTROL_REP1 - dupRadar Int (duprate at low read counts): 0.00117853405580349 
+CONTROL_REP1 - dupRadar Sl (progression of the duplication rate): 3.63775060491584
