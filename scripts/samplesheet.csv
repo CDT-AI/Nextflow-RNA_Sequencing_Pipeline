@@ -1,0 +1,3 @@
+sample,fastq_1,fastq_2,strandedness
+CONTROL_REP1,/workspace/nf-core_rnaseq/data/gut_1.fq.gz,/workspace/nf-core_rnaseq/data/gut_2.fq.gz,auto
+CONTROL_REP2,/workspace/nf-core_rnaseq/data/liver_1.fq.gz,/workspace/nf-core_rnaseq/data/liver_2.fq.gz,auto
