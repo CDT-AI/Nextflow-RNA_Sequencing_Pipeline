@@ -1,3 +1,5 @@
 sample,fastq_1,fastq_2,strandedness
-CONTROL_REP1,/workspace/nf-core_rnaseq/data/gut_1.fq.gz,/workspace/nf-core_rnaseq/data/gut_2.fq.gz,auto
-CONTROL_REP2,/workspace/nf-core_rnaseq/data/liver_1.fq.gz,/workspace/nf-core_rnaseq/data/liver_2.fq.gz,auto
+CONTROL_REP1,/workspace/Nextflow-RNA_Sequencing_Pipeline/data/mut_lib1_R1.fq.gz,/workspace/Nextflow-RNA_Sequencing_Pipeline/data/mut_lib1_R2.fq.gz,auto
+CONTROL_REP2,/workspace/Nextflow-RNA_Sequencing_Pipeline/data/mut_lib2_R1.fq.gz,/workspace/Nextflow-RNA_Sequencing_Pipeline/data/mut_lib2_R2.fq.gz,auto
+CONTROL_REP3,/workspace/Nextflow-RNA_Sequencing_Pipeline/data/WT_lib1_R1.fq.gz,/workspace/Nextflow-RNA_Sequencing_Pipeline/data/WT_lib1_R2.fq.gz,auto
+CONTROL_REP4,/workspace/Nextflow-RNA_Sequencing_Pipeline/data/WT_lib2_R1.fq.gz,/workspace/Nextflow-RNA_Sequencing_Pipeline/data/WT_lib2_R2.fq.gz,auto
