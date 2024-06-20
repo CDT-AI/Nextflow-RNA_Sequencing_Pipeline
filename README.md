@@ -133,7 +133,7 @@ nextflow run nf-core/rnaseq --input scripts/samplesheet.csv --outdir results --g
     Upon successful completion, the output will display a success message like this:
 
     <p float="left">
-    <img src="docs/images/wf-complt.png" width="700" />
+    <img src="docs\images\wf-success.png" width="700" />
     </p>
 
     This output indicates that the pipeline ran successfully, detailing the duration, CPU hours, and the tasks that were completed successfully.
